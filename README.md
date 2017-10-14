@@ -1,2 +1,2 @@
 # PocketTanksDemo
-A phaser.io based implementation of the fun android game PocketTanks
+A phaser.io based multiplayer projectile game very loosely resembling the android game PocketTanks
