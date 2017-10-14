@@ -1,0 +1,16 @@
+{
+  "name": "firstgame",
+  "version": "1.0.0",
+  "description": "phaser game",
+  "main": "index.js",
+  "scripts": {
+    "test": "start index"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "nodemon": "^1.12.1",
+    "socket.io": "^2.0.3"
+  }
+}
